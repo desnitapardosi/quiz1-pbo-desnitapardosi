@@ -7,4 +7,4 @@ bagaimana caranya menjalankan program karena kan dia 3 soal jadi apakah setelah 
 bagaimana cara mengeluarkan outputnya?
 error bagaimana cara mengatasinya?
 ini kodenya bantu aku memeriksa di bagian mana yang mengalami error
-coba buat ulang kodenya setelah mengalami perbaikan
+coba buat ulang kodenya setelah mengalami perbaikannn
