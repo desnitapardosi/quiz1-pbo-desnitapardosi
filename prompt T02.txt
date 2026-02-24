@@ -1,0 +1,6 @@
+jadi ini kita akan masuk kesoal kedua sebelumnya jelaskan dulu sama ku tentang apa yang di minta di soal ini
+"data nilai siswa disimpan dalam tumpukan fisik yang menyerupai arsip atau rak". kenapa di bagian ini data mahasiswa disimpan dalam satu tumpukan data?
+intinya soal itu membahas tentang nilai mahasiswa bukan??
+persamaan soal no 1 dan no 2 apa meraka sama sama pakai array?
+jadi nanti hasil input soalnya apa??
+

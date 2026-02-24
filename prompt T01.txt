@@ -1,0 +1,10 @@
+jadi kami sekarang lagi kuis pemrogramana yang dimana terdiri dari 3 soal dan ini adalah soal pertama jadi bantu aku untuk mengerjakan
+itu emang di masukkan semua daftar menunya?
+kalo misalnya dia tidak di masukkan semua jenis menu saat kita me run kan program apakah akan mengalami masalah?
+jelaskan sama ku terkait kode ini
+jadi kode yang menurutmu benar yang mana yang menghasilkan soal sesuai dengan output yang di minta? dan itu memang harus semua di list menu ituu?
+bagaimana caranya menjalankan program karena kan dia 3 soal jadi apakah setelah mengerjakan semuanya setelah itu bisa run code?
+bagaimana cara mengeluarkan outputnya?
+error bagaimana cara mengatasinya?
+ini kodenya bantu aku memeriksa di bagian mana yang mengalami error
+coba buat ulang kodenya setelah mengalami perbaikan

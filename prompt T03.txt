@@ -1,0 +1,9 @@
+bantu aku untuk membuat kode sesuai dengan soal yang di minta ini adalah soal yang ketiga
+coba jelaskan dengan detail terkait soal tersebut karena ini adalah kita berkreasi sendiri yang di mana kode program yang kita buat itu adalah sesuai dengan kemauan kita tidak di tentukan di soal 
+jelaskn dengan detail terkait dengan kode ini
+itu pakai array sama list juga seperti soal no 1 dan 2?
+siapa bilang hanya menangani satu pelanggan? anak del bank berarti dari sini sudh dapat kita buat bahwa karyawan del melayani banyak orang 
+masalahnya kan loundry del itu biasanya kami hari rabu nah kami tinggal di asrama yang di mana setiap loundry bag kami di jemput hari rabu menggunakan mobil oleh karyawan, satu asrama kurang lebih 250 orang yang dimana ini bukan hanya asrama saya msih ada asrama yang lain 
+hasil outputnya nanti apa? kalo kita sudah menjalankan program?
+coba buat outputnya ada nama asramanya misalnya maxplanck nicola tesla dan asrama dalam 
+apakah untuk ouputnya tidak bisa menggunakan tabel misal nama,asrama,berat cucian 
